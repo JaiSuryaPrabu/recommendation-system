@@ -1,0 +1,66 @@
+/* Global styles */
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    font-family: Arial, sans-serif; /* Default font family */
+    color: #333; /* Default text color */
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px; /* Larger font size for the title */
+    color: #555; /* Dark gray title color */
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-top: 10px; /* Add margin for spacing */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff; /* Blue button color */
+    color: #fff; /* White button text color */
+    cursor: pointer;
+    margin-top: 10px; /* Add margin for spacing */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Recommended movie card */
+.recommendations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.movie-card {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff; /* White background for movie cards */
+    animation: fadeIn 0.5s ease; /* Apply fade-in animation */
+}
+
+/* Additional styling */
+.movie-title {
+    font-size: 18px; /* Larger font size for movie titles */
+    font-weight: bold; /* Bold text */
+    margin-bottom: 5px;
+}
+
+.movie-description {
+    font-size: 14px; /* Smaller font size for movie descriptions */
+    color: #555;
+}
