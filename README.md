@@ -1,6 +1,6 @@
 # _Movie recommendation_ 
 
-Discover 3 hidden gems! Enter a movie you love, get 3 similar films tailor-made for your taste. Dive deeper and never run out of cinematic adventures 
+Discover 3 hidden gems! Enter a movie you love, get 3 similar films tailor-made for your taste. Dive deeper [here](https://jaisuryaprabu.github.io/recommendation-system/)
 
 ## _About Dataset_
 This Dataset is mainly used foe Natural Language Processing And MachineLeaning
