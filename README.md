@@ -29,7 +29,7 @@ This Dataset is mainly used foe Natural Language Processing And MachineLeaning
   + The integral part of a web page is for it to be interactive and responsive to the user. HTML makes it possible. Unlike static pages, responsive ones also have a better reach. Automatically resizing, hiding, shrinking, or enlarging a website to make it look good on all devices 
       
   ### CSS 
-  + we used CSS to CSS is used for defining the styles for web pages
+  + We used CSS to CSS is used for defining the styles for web pages
   + CSS has many properties that help to change and provide many extra features to the web page
   + The main reason why we used CSS was CSS is convenient for any change in web pages.
     
